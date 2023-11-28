@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.16.0
+dependencies:
+- - name: mariadb
+  repository: '@bitnami'
+  version: 14.1.4
+description: A Helm chart for Kubernetes
+name: couponservice
+type: application
+version: 0.1.0
+
+...
+files:
+  couponservice-0.1.0.tgz: sha256:88044a15abefa4de20c7442e20d5a926aa8637f2956577a9a9cbc08d80f5e4cf
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJlZheqCRCA7kbsQa/z2wAAgssMAGpqdetrpbl5HqFoOAOkmSzI
+nQWwDoATvPECBmMZ+u5ACJ/Ihn+1Wfzt+oFDibREJ7/SDBQ4fefRx7TF4qBpL+ZK
+V2YSoTAvUOAViLoEhlWTzy9ykjFEN5lA8cZE7/Uh6H8ctXn45iQumv+IHeO6KwDd
+911XvBEO/471jgo5c8jqdNuDHoyA63888CFCYvIQqVCGYydbF5UIJVWAwTUaqXI+
+qo0ghujFdICebt8Fr5rZuVhXzcb1/Ga2k4yYasMix4iOiXzxQBTLRDpGMoJy4GFx
+lV9PUyvbhbMnJ1k2PlXLDFBvEFBq4mqAYH5mlPmBpLoAAmB4E7Tw/zN07WyY4lbA
+VQ6mMjjPx01NSKfyqfcDosWkd+l5H44A5n7MIuLjtM0PMLMJJeKjqi+kpGYAe0i3
+7niDvWBgFAUZuNLNAFbnlkMfhRdA0DoniC64ngRd+HrvuSF2D8CGGWaxl0+D19qD
+xmxyY8E62cUTEQoNNuqgt1C/AacNMBMQ73Z+GlBmbA==
+=WO27
+-----END PGP SIGNATURE-----
