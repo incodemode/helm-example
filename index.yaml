@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  tomcat-example:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-27T21:07:33.3900062-06:00"
+    dependencies:
+    - name: tomcat
+      repository: http://charts.bitnami.com/bitnami
+      version: '>=0'
+    description: A Helm chart for Kubernetes
+    digest: b6e3ae33aaca3891be85e16926d1a6872d62c441e3bcad772ac3c7227ba3591e
+    name: tomcat-example
+    type: application
+    urls:
+    - tomcat-example-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-27T21:07:33.3861871-06:00"
